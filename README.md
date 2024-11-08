@@ -1,4 +1,4 @@
-# SQL Projects & Data Analytics Portfolio 📊
+# SQL Projects & Data Management and Organization (ANYL 6150) Portfolio 📊
 
 This repository contains a collection of SQL projects and data analytics exercises completed as part of my coursework and personal data science journey. Each project showcases different SQL techniques and data manipulation skills, including data cleaning, complex querying, and relational database design. By applying SQL in real-world scenarios, I've gained hands-on experience in transforming raw data into insights, optimizing queries, and structuring data effectively for analysis.
 
